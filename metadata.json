@@ -1,0 +1,5 @@
+{
+  "name": "Categorizador Bancário",
+  "description": "Aplicação gamificada para categorização de estabelecimentos bancários com suporte offline.",
+  "requestFramePermissions": []
+}
